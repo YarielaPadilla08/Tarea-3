@@ -1,0 +1,7 @@
+C:\Users\LEVONO\Desktop\Progra2\Tarea 3 Yariela Padilla\Tarea 3 Yariela Padilla\bin\Debug\Tarea 3 Yariela Padilla.exe.config
+C:\Users\LEVONO\Desktop\Progra2\Tarea 3 Yariela Padilla\Tarea 3 Yariela Padilla\bin\Debug\Tarea 3 Yariela Padilla.exe
+C:\Users\LEVONO\Desktop\Progra2\Tarea 3 Yariela Padilla\Tarea 3 Yariela Padilla\bin\Debug\Tarea 3 Yariela Padilla.pdb
+C:\Users\LEVONO\Desktop\Progra2\Tarea 3 Yariela Padilla\Tarea 3 Yariela Padilla\obj\Debug\Tarea 3 Yariela Padilla.csproj.AssemblyReference.cache
+C:\Users\LEVONO\Desktop\Progra2\Tarea 3 Yariela Padilla\Tarea 3 Yariela Padilla\obj\Debug\Tarea 3 Yariela Padilla.csproj.CoreCompileInputs.cache
+C:\Users\LEVONO\Desktop\Progra2\Tarea 3 Yariela Padilla\Tarea 3 Yariela Padilla\obj\Debug\Tarea 3 Yariela Padilla.exe
+C:\Users\LEVONO\Desktop\Progra2\Tarea 3 Yariela Padilla\Tarea 3 Yariela Padilla\obj\Debug\Tarea 3 Yariela Padilla.pdb
