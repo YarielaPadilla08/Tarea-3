@@ -1,0 +1,7 @@
+C:\Users\LEVONO\Desktop\Progra2\Yariela_Padilla_Tarea3\Yariela_Padilla_Tarea3\obj\Debug\Yariela_Padilla_Tarea3.csproj.AssemblyReference.cache
+C:\Users\LEVONO\Desktop\Progra2\Yariela_Padilla_Tarea3\Yariela_Padilla_Tarea3\obj\Debug\Yariela_Padilla_Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\LEVONO\Desktop\Progra2\Yariela_Padilla_Tarea3\Yariela_Padilla_Tarea3\bin\Debug\Yariela_Padilla_Tarea3.exe.config
+C:\Users\LEVONO\Desktop\Progra2\Yariela_Padilla_Tarea3\Yariela_Padilla_Tarea3\bin\Debug\Yariela_Padilla_Tarea3.exe
+C:\Users\LEVONO\Desktop\Progra2\Yariela_Padilla_Tarea3\Yariela_Padilla_Tarea3\bin\Debug\Yariela_Padilla_Tarea3.pdb
+C:\Users\LEVONO\Desktop\Progra2\Yariela_Padilla_Tarea3\Yariela_Padilla_Tarea3\obj\Debug\Yariela_Padilla_Tarea3.exe
+C:\Users\LEVONO\Desktop\Progra2\Yariela_Padilla_Tarea3\Yariela_Padilla_Tarea3\obj\Debug\Yariela_Padilla_Tarea3.pdb
